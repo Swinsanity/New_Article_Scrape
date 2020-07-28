@@ -1,0 +1,57 @@
+body {
+    background-color: rgba(54, 127, 154, 0.728);
+}
+
+header {
+    background-color: white;
+    border-bottom: 10px solid rgb(50, 50, 50);
+    height: 100px;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'Headland One', serif;
+    margin: 0;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+h4 {
+    background-color: rgb(211, 211, 211);
+    padding: 10px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+
+.container {
+    border: 1px solid black;
+    box-shadow: 5px 10px 5px rgba(35, 82, 99, 0.728);
+    background-color: white;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+    padding: 20px;
+    height: 700px;
+    overflow: auto;
+}
+
+.comment-con {
+    margin-top: 40px;
+}
+
+#comment-title {
+    margin-top: 10px;
+    width: 75%;
+}
+
+#comment-body {
+    margin-top: 5px;
+    border: none;
+    width: 60%;
+}
+
+#title {
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
